@@ -445,7 +445,7 @@ section[id] {
 
 /* Project Background Images */
 .card:nth-child(1) {
-  background: url(../assets/project/task-manager-project.png) center center/cover;
+  background: url(../assets/project/rh-management-project.png) center center/cover;
 }
 
 .card:nth-child(2) {
